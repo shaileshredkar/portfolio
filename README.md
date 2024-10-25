@@ -45,6 +45,6 @@ Successfully led a team of QA engineers in a Scrum environment, managing the tes
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email Address]
-- GitHub: [Your GitHub URL]
+- LinkedIn: [https://www.linkedin.com/in/shailesh-redkar-82338514/]
+- Email: [shailesh_redkar@yahoo.com]
+- GitHub: [https://github.com/shaileshredkar/portfolio]
