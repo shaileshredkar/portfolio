@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio. I am an experienced QA Management professional w
 
 ## About Me
 
-I have over [X years] of experience in QA management with a focus on agile methodologies, quality assurance, release management, and process optimization through Six Sigma techniques. My expertise spans across various industries, where I’ve successfully led DevOps transformations and leveraged big data for quality improvements.
+I have over 21 years of experience in QA management with a focus on agile methodologies, quality assurance, release management, and process optimization through Six Sigma techniques. My expertise spans across various industries, where I’ve successfully led DevOps transformations and leveraged big data for quality improvements.
 
 ## Key Skills
 
